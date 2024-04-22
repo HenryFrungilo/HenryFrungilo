@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Leetcode, read tech articles and study music.
   
-- 🗺️ Music Producing Hobbyist.
+- 🗺️ Music Producer Hobbyist.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HenryFrungilo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-f-086541270/) or contact me on henryfrungilo@outlook.com.
 
