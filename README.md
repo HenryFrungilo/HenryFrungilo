@@ -10,6 +10,39 @@
   </a>
 </div>
 
+```typescript
+const Henry: Developer = {
+  name: 'Henry Frungilo',
+  email: [
+    'henryfrungilo@outlook.com'
+  ],
+  programmingLanguage: [{
+    language: 'typescript',
+    timeUse: '1.5 Years',
+    support: [{
+      language: 'javascript',
+      timeUse: '2 Years'
+    }],
+    framework: 'Angular'
+  },{
+    language: 'Java',
+    timeUse: '1 Years',
+    framework: 'Spring-boot'
+  }],
+  developer: Dev.FULLSTACK,
+  hobby: [
+    'Watch series and movies',
+    'Play online games',
+    'Music Hobbyist'
+  ]
+};
+```
+
+</div>
+<div align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ---
 
 ### 👨‍💻 About Me :
@@ -23,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HenryFrungilo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-f-086541270/) or contact me on henryfrungilo@outlook.com.
 
-- 📖 My main project is Mantl, a music producing suite focused on the display of plugins to enhance your listening experience, check it out on my Repositories
+- 📖 My main project is SRA - Seshat RPG Auxiliary, a RPG Sheet manager, check it out on my Repositories.
 
 ---
 <div align="center">
